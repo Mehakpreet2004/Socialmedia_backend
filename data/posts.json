@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1730735717067,
+    "userId": 1730734376746,
+    "content": "This is a new post",
+    "likes": 1,
+    "comments": [],
+    "timestamp": "2024-11-04T15:55:17.067Z"
+  },
+  {
+    "id": 1730735848484,
+    "userId": 1730734376746,
+    "content": "Sample post created.",
+    "likes": 0,
+    "comments": [],
+    "timestamp": "2024-11-04T15:57:28.484Z"
+  }
+]

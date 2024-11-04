@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1730734104836,
+    "username": "UserOne",
+    "password": "$2a$10$WW396enksENIrHRzmTDFyuai.s51c3a4N1gwzkutJ44h8D0nwIYeW",
+    "role": "user",
+    "followers": [],
+    "following": []
+  },
+  {
+    "id": 1730734202518,
+    "username": "UserTwo",
+    "password": "$2a$10$jyJMrNX7g/reopI3sXvEreoHaO8.0AS93QrFpBYgnyDadWaZEpq96",
+    "role": "user",
+    "followers": [],
+    "following": []
+  },
+  {
+    "id": 1730734376746,
+    "username": "exampleUser",
+    "password": "$2a$10$bK.odLNBNyLCnjbKG5KTqeV3AL8GNhDTMn96hTqbVifZFu76sAKQS",
+    "role": "user",
+    "followers": [],
+    "following": []
+  }
+]
